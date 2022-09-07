@@ -1,7 +1,6 @@
 # Svelte to React Compiler
 
-A demonstration of how transform a Svelte component to a React component.
-(derived from https://github.com/joshnuss/micro-svelte-compiler)
+A demonstration of how transform a Svelte component to a React component. (derived from https://github.com/joshnuss/micro-svelte-compiler)
 
 ## Installation
 
